@@ -1,0 +1,24 @@
+{
+  "name": "webpack_basic",
+  "version": "1.0.0",
+  "description": "webpack basic playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUNWOO45/webpack_basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JUNWOO45/webpack_basic/issues"
+  },
+  "homepage": "https://github.com/JUNWOO45/webpack_basic#readme",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
